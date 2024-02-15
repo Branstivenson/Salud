@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ServiciosaludApplication<serviciosalud>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.elsobreviviente.serviciosalud.ServiciosaludApplication",
+            "projectName": "serviciosalud",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
